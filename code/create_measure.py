@@ -4,6 +4,7 @@ from openpyxl import Workbook
 from sys import argv
 from os import mkdir,path
 
+#Comentarios 
 folder_measures='measures'
 droppedFile = argv
 

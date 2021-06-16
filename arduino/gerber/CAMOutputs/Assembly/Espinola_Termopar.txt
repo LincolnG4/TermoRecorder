@@ -1,0 +1,10 @@
+Partlist exported from C:/Users/bruno/Desktop/UTFPR/2019.2/Projeto Espinola/Espinola_Termopar.sch at 15/11/2019 18:47
+
+Qty Value               Device              Package       Parts              Description                                                                  MF MPN      OC_FARNELL OC_NEWARK SPICEPREFIX
+4                       10-XX               B3F-10XX      S5, S6, S7, S8     OMRON SWITCH                                                                    B3F-1000 176432     36M3542              
+4                       PINHD-1X5           1X05          JP2, JP3, JP4, JP5 PIN HEADER                                                                                                               
+1                       PINHD-1X6           1X06          JP1                PIN HEADER                                                                                                               
+4                       R-EU_0411/12        0411/12       R2, R3, R4, R5     RESISTOR, European symbol                                                                                     R          
+1   ARDUINO_MEGA_R3FULL ARDUINO_MEGA_R3FULL ARDUINO_MEGA  B1                 Arduino Mega R3                                                                                                          
+1   PC16S               PC16S               PC16S         R1                 POTENTIOMETER                                                                            4452940    unknown              
+1   TUXGR_16X2_R2       TUXGR_16X2_R2       TUXGR_16X2_R2 DIS1               Tuxgraphics LCD display 16x2 characters reflective, without background light             unknown    unknown              
