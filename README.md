@@ -14,10 +14,10 @@ Software to collect thermocouples data with arduino and create a ETL pipeline to
 - 4x Push Buttons
 
 ## PINOUT
-__UNDER CONSTRUTUION__  
+*UNDER CONSTRUTUION*
 
 ## SETUP
-__UNDER CONSTRUTUION__  
+*UNDER CONSTRUTUION*
 
 
 ## HOW IT WORKS :chart_with_upwards_trend:
