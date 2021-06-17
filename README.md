@@ -1,5 +1,7 @@
 # TermoRecorder
-Software to collect thermocouples data with arduino and create a ETL pipeline to this data
+The arduino records measurements from the thermocouples. It can run 4 measurements simultaneously. The measurements are saved into SD card in a '.CSV' file. A desktop software based on python creates an ETL pipeline to generate a dashboard to analyzes
+
+
 
 <img src="https://i.postimg.cc/4xnSqn5J/termo2.jpg" alt="TermoProject" width="500"/>
 
