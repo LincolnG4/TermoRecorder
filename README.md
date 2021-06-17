@@ -27,7 +27,7 @@ Every time that you click on push button the arduino starts to record a measurem
 ## RUNNING DESKTOP SOFTWARE :computer:
 
 ### PREREQUISITES 
-__UNDER CONSTRUTUION__  
+*UNDER CONSTRUTION* 
 
 The desktop app is compose by 2 mainly codes:  
 
