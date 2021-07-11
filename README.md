@@ -25,12 +25,20 @@ The arduino records measurements from the thermocouples. It can run 4 measuremen
 | SO          | 34          | 27            | 28          | 24           |
 
 
-| PUSH BUTTON | MODULO 1    | MODULO 2      | MODULO 3    |  MODULO 4    |
-| :---        |    :----:   |    :----:     |    :----:   |         ---: |
-| SCK         | 33          | 31            | 32          | 26           |
-| CS          | 35          | 29            | 30          | 22           |
-| SO          | 34          | 27            | 28          | 24           |
+| PUSH BUTTON 1 | PUSH BUTTON 2 | PUSH BUTTON 3 | PUSH BUTTON 4 |
+| :---          |    :----:     |    :----:     |         ---:  |
+| 46            | 49            | 48            | 47            | 
 
+
+| SD CARD       | MODULO 1     |
+| :---          |        ---:  |
+| CS            | 53           | 
+| SCK           | 52           | 
+| MOSI          | 51           | 
+| MOSO          | 50           | 
+
+
+LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
 
 ## SETUP
 *UNDER CONSTRUTION*
